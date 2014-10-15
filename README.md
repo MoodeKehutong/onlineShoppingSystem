@@ -25,4 +25,4 @@ onlineShoppingSystem
 
 *系统开发时间为一周，即2014-09-04至2014-09-11
 
-*需要在github上托管自己的项目代码，系统完成后，将github地址及个人信息发送到job@moode.cn
+*需要在github上托管自己的项目代码，系统完成后，将github地址及个人信息发送到job@moode.cn并抄送jhwu@thoughtworks.com
