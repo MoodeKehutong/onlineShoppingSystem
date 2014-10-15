@@ -26,3 +26,27 @@ onlineShoppingSystem
 *系统开发时间最好为2~3周
 
 *需要在github上托管自己的项目代码，系统完成后，将github地址及个人信息发送到job@moode.cn并抄送jhwu@thoughtworks.com
+
+=============================================
+帮助指南：
+1、github注册
+https://github.com/join
+
+2、github使用指南
+https://help.github.com/articles/set-up-git 或自己google
+
+3、开发环境搭建
+https://ruby-china.org/wiki/install_ruby_guide
+
+4、推荐IDE（RubyMine）
+http://www.jetbrains.com/ruby/
+
+5、Ruby on Rails学习指南
+RailsGuide
+	http://rails.ruby.tw/index.html	
+
+Ruby on Rails 实战圣经
+	http://ihower.tw/rails3/	
+
+6、任何其他问题，可以到Ruby的社区提问或寻找答案
+https://ruby-china.org
